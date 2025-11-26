@@ -16,3 +16,5 @@ Now you can have a try!
 ```bash
 python app.py --lora_dir "your lora dir" 
 ```
+
+git@github.com:liliazhen669/gradio_demo.git
