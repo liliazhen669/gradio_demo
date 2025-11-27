@@ -1,1 +1,5 @@
 cache/
+RelightEdit/ckpt
+RelightEdit/assets
+RelightEdit/train/parquet/*
+RelightEdit/train/runs/*

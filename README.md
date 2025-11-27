@@ -9,7 +9,7 @@ pip install -r requirements.txt
 pip install -U huggingface_hub
 ```
 
-## Inference in bash with gradio
+## Inference with single lora in bash with gradio
 
 Now you can have a try!
 
